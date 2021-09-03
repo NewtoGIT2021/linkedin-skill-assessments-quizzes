@@ -204,7 +204,7 @@
 
 #### Q30. When plotting in AutoCAD, the default plotting style is a color-dependent plot style table (CTB). You can also use named plot style tables (STB). You can change a CTB drawing to an STB drawing using which command?
 
-- [ ] CONVERTPSTYLES
+- [x] CONVERTPSTYLES
 - [ ] CONVSTYLES
 - [ ] CONVERTPLOT
 - [ ] CONVPLOTSTYLE
@@ -257,7 +257,7 @@
 #### Q33. The Quick Access toolbar (QAT) is located in the top left of the AutoCAD application window. Which two commands in the QAT allow you to go backward and forward in your AutoCAD workflow?
 
 - [ ] Left and Right
-- [ ] Undo and Redo
+- [x] Undo and Redo
 - [ ] Rewind and Fast
 - [ ] Forward Unfix and Fix
 
@@ -269,6 +269,7 @@
 - [x] Match Layer (LAYMCH)
 
 #### Q35. AutoCAD uses coordinates as the basis of all drawings. The coordinate system is always displayed in the bottom-left corner of the Model tab. In a regular 2D drawing, what axis notation is used for the horizontal and vertical coordinates?
+
 
 - [x] X = horizontal, Y = vertical
 - [ ] H = horizontal, V = vertical
@@ -286,7 +287,7 @@
 
 - [ ] internal and external quadrants
 - [ ] internal and external circumference
-- [ ] internal and external diameter
+- [x] internal and external diameter
 - [ ] internal and external radius
 
 #### Q38. An inscribed polygopoln gives you what type of point at the end of the polygon radius?
@@ -300,8 +301,8 @@
 
 - [ ] Snap and Grid
 - [ ] Dynamic Input
-- [ ] Object Snaps
-- [x] Polar Tracking
+- [x] Object Snaps
+- [ ] Polar Tracking
 
 #### Q40. When you use the ARRAY command to create copies of objects in AutoCAD, what do you use to orient a rectangular array?
 
@@ -344,12 +345,12 @@
 
 - [ ] to make sure AutoCAD works properly
 - [ ] to isolate all the blocks you are using in the current drawing
-- [x] to stop anyone seeing which AutoCAD palettes you are using
-- [ ] to automatically hide the palette content and display only the docked palette title bar
+- [ ] to stop anyone seeing which AutoCAD palettes you are using
+- [x] to automatically hide the palette content and display only the docked palette title bar
 
 #### Q46. The navigation bar is normally on by default and is located to the right-hand side of the drawing area. Which variable controls the display of the navigation bar, and to what value does it need to be set for the navigation bar to display on the screen?
 
-- [ ] The NAVBARDISPLAY value should be set to 1
+- [x] The NAVBARDISPLAY value should be set to 1
 - [ ] The NAVBARDISPLAY value should be set to 0.
 - [ ] The NAVIGATIONBARDISPLAYON value should be set to 1.
 - [ ] The NAVIGATIONBARDISPLAYON value should be set to 0.
@@ -365,7 +366,7 @@
 
 - [ ] the status bar
 - [ ] the navigation bar
-- [ ] the Quick Access toolbar (QAT)
+- [x] the Quick Access toolbar (QAT)
 - [ ] the info bar
 
 #### Q49. When drafting with object snaps and object snap tracking, what other drafting setting can you use to set object snap tracking points?
@@ -398,7 +399,7 @@
 
 #### Q53. When hatching in a drawing with the Hatch (HATCH) command and the pick points selection method, what hatch setting needs to be switched OFF in order to make sure that all hatch boundaries selected form one hatch object?
 
-- [ ] Create Separate Hatches
+- [x] Create Separate Hatches
 - [ ] Associative Boundaries
 - [ ] Set the HATCHMULTIPLE variable to 0 (OFF).
 - [ ] Set the HATCHMULTIPLE variable to 1 (ON).
@@ -557,13 +558,13 @@
 - [ ] side polygon
 - [ ] polyline polygon
 - [ ] line polygon
-- [ ] edge polygon
+- [x] edge polygon
 
 #### Q76. When using blocks in a drawing, a selected block displays only one grip: the insertion point. How would you get a block to display all of its associated grips?
 
 ![q76](images/q76_autocad.png)
 
-- [ ] Change the GRIPBLOCK system variable to 1.
+- [x] Change the GRIPBLOCK system variable to 1.
 - [ ] Select the block and change it in the Properties palette.
 - [ ] Change the GRIPBLOCK system variable to 0.
 - [ ] Select the block and change it in the right-click shortcut menu.
